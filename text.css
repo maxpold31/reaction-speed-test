@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width:100vw;
+}
+button{
+    background-color: rgb(255, 59, 59);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width:100vw;
+    font-size: 30px;
+}
